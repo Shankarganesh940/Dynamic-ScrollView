@@ -48,12 +48,6 @@ class ViewController: UIViewController {
             yaxis = yaxis + 65
         }
     }
-    
-    
-    
-    
-    
-    
     @IBAction func image(_ sender: Any) {
         let c = Int(text1.text!)!
         yaxis = 100
